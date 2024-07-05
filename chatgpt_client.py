@@ -1,14 +1,14 @@
 import openai
 from sheets_client import read_database
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
 # Replace with your actual API key
-api_key = "sk-proj-3x6IvUcW3YBVWL8bhS3wT3BlbkFJ4Ji455vbw1pfDK9y6PdB"
+api_key = os.getenv("OPENAI_API_KEY")
 
 openai.api_key = api_key
-
 
 def request_chat_gpt(user_message):
     # Fetch the filtered database records

@@ -14,8 +14,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TELEGRAM_API_TOKEN = "7314246016:AAFtbt55eN7SR3qdtIJBEZkWdybo2nnUZtk"
-
+TELEGRAM_API_TOKEN = os.getenv("TELEGRAM_API_TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text="✨ Hola! Sóc la Ruth, la cara amiga que sempre trobes a la Plaça de la Virreina. Benvingut/da! 🌸 Si vols conèixer més sobre mi i els meus veïns, no dubtis en parlar-me. Estic aquí per escoltar-te i compartir la vida del nostre encantador barri. Pregunta'm el que vulguis, estic aquí per ajudar-te!")
