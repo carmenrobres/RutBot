@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tania-428116",
+  "private_key_id": "87ecdf0e807bb64444f67b4f5cbfec6b4dfe8d2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8y/C4ueqwTCJk\nIVvsO4s7ksvhTsAWROw6uJDtVFPjDIa1+BIuTfq0Hi6YDgVTWzhUNRh5WWaleL6s\nl5gBaChAsSNV8MoB8PDPJTUjTRIylaHaw7kLJ9e2N59v4vIWTSYhMcxyIYj6ABIL\nAynOLtSQiCKadQREAvWlvfSg+t5SK2HLlYp+TTLzEIJPwpjydRKLzDkcbj6mVuWR\n6iSQU39HYbxZnshjbWdizK5eVcgzdtmUeu77d/I7SZcMJrduBdpyRbblP7sMXCER\n0ndlSlVZ+fNt/OVPKb01K8PI3Ycgxz+9iuzwbbEtnwiRfMiH8EUu4o/2cWbGWhUw\n0JzCNEhHAgMBAAECggEAW1syJikso9eLcrljsjmT46Vii6lgMMZ0KuwBkR4To5P9\noZMjNQ3dyQer0z9Bm3bSGIlCyQGWNm7pkTmfv9qHU9qDd0QXc/4DgLEH+AeEzT5z\nvhikc335lz5uI6WFMH5ve3ON8xJAJn0fPf3vXkpx6Gg/mk8SW9i0xllXRQhvyQFH\n+YKSgL6HOLH9BcPy34MsormrZTspLKDkVe8Gvdt5tsNYtSWqNuG6RWM85DnSXvTL\nlb415EZIlBcoKL0LaoD+/4AFnSWvd5TuoWgUL/wbKEATHCTHc4hF96JtLCUALeld\n+Pl+/JHykvfMfjx3+Gfd4V4AHM5DrWsaQ3aLKBeesQKBgQD1Z4rPhrl+vJe5iro2\ntzeOTuZu0XA16qsRVxj+/ZGB+/lRpybyamMus3kT1YjAi8e/A7OhrzTe2imlSEzu\nDxK4Q6w8G3PH5IOJSRXnfpTl/ZpVqfIUdl+c6Z9gSr1CrXyPAVuZe4TsH6pKNrFC\nGhI/c65VxsMWlGPbgxswHGA8EQKBgQDE8rYaFlAXwNhn1jUQZHdgDK+fYVQbsnjW\n1aUma/zajXHXeXgSMH+nv/KldPDVtks/DIxTtzaoRSS8yjjriqB5kTFzvVWV4i5U\nWgEIU57ypT8RqEHsEaR99h0ZKxlFGdTmqjYuDVXSAe/jZSob9zXkwMuSOQaeZ4RI\nvtHpUJJ21wKBgCYBwUfez7/HKaB80dZDjgEmSx4CpeRT0ea/nIlxcCW3hqeUwb1t\nqKrE9Q2TVrirbWYyBpIV9pRFKYoFppSAFSAgqv4sKkRdKdoLTa8qtZjhLBP0XB+7\nLZe5vwtEyAcZo17qkOs2bCG9zbvsuItKSmU1X1y9id1nYgfPSFitLGJhAoGBAKoE\nGD2261dGC8q/uTk4cXECIo3E2HW8gOJ8tj/P0wzcM91eJ9AT++9VHWPF6q2i25xG\n+dC/BbkHT2qGa9Kx7kxjkbwnQv3LrlD1DZUhksJG8oYMqTPgGw796iqy8PKdFRQ2\n9eSVcHOFZo/34f0YUHb0FAhboCIYnLKrv8vY2UcrAoGBAIl6W7iVhGGo3dB/08kF\ncGOzQ4G0CvSuK6iW8NsbfWXN6QPlsCUZKE2JY6g2OY+bNj3wflBOX+rASfa7JbyQ\nvssP28YXPsoOHjDkzGSmjiTXIX5chvPbxN1XZ+9/WDXiYRDqvc4GVV25bEvIW+sT\nxlW7h011mSbahMmOoYbJycjB\n-----END PRIVATE KEY-----\n",
+  "client_email": "tania-44@tania-428116.iam.gserviceaccount.com",
+  "client_id": "113037137988330724649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tania-44%40tania-428116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
