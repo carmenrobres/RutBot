@@ -1,10 +1,10 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import openai
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
 
-load_dotenv()
+#load_dotenv()
 
 # Replace with your actual API key
 api_key = os.getenv("OPENAI_API_KEY")
