@@ -1,6 +1,13 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import openai
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+# Replace with your actual API key
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Define the scope
 scope = [
@@ -22,8 +29,6 @@ sheet = client.open('TaniaData')
 sheet1 = sheet.get_worksheet(0)  # Get the first sheet
 sheet2 = sheet.get_worksheet(1)  # Get the second sheet
 
-# OpenAI API key
-openai.api_key = "sk-proj-3x6IvUcW3YBVWL8bhS3wT3BlbkFJ4Ji455vbw1pfDK9y6PdB"
 
 def append_to_sheet1(values):
     try:
